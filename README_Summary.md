@@ -13,7 +13,7 @@ In this assignment I will build and evaluate several machine learning models to 
 1. [Resampling](#Credit-Risk-Resampling-Techniques)
 2. [Ensemble Learning](#Ensemble-Learning)
 
-# Summary 
+# Summary - Final Questions
 
 ## Credit Risk Resampling Techniques
 
@@ -49,9 +49,9 @@ In this assignment I will build and evaluate several machine learning models to 
     
     <u>**Conclusion:**</u>   The above figures show that the **SMOTE Oversampling** has the best geometric scores even though the Combination (Over and Under) Sampling is very close to the best.
 
-<br><br><br>
+<br><br>
 
-
+##
 ## Ensemble Learning
 
 1. Which model had the best balanced accuracy score?
