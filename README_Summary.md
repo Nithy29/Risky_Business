@@ -10,12 +10,12 @@ Mortgages, student and auto loans, and debt consolidation are just a few example
 
 In this assignment I will build and evaluate several machine learning models to predict credit risk using data you'd typically see from peer-to-peer lending services. Credit risk is an inherently imbalanced classification problem (the number of good loans is much larger than the number of at-risk loans). I have employed different techniques for training and evaluating models with imbalanced classes. I used the imbalanced-learn and Scikit-learn libraries to build and evaluate models using the two following techniques:
 
-1. [Resampling](#Final-Questions---Credit-Risk-Resampling-Techniques)
-2. [Ensemble Learning](#Final-Questions---Ensemble-Learning)
+1. [Resampling](#Credit-Risk-Resampling-Techniques)
+2. [Ensemble Learning](#Ensemble-Learning)
 
-# Summary 
+# Summary - Final Questions
 
-## Final Questions - Credit Risk Resampling Techniques
+## Credit Risk Resampling Techniques
 
 1. Which model had the best balanced accuracy score?
 
@@ -49,10 +49,10 @@ In this assignment I will build and evaluate several machine learning models to 
     
     <u>**Conclusion:**</u>   The above figures show that the **SMOTE Oversampling** has the best geometric scores even though the Combination (Over and Under) Sampling is very close to the best.
 
-<br><br><br>
+<br><br>
 
-
-## Final Questions - Ensemble Learning
+##
+## Ensemble Learning
 
 1. Which model had the best balanced accuracy score?
 
