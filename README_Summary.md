@@ -49,6 +49,9 @@ In this assignment I will build and evaluate several machine learning models to 
     
     <u>**Conclusion:**</u>   The above figures show that the **SMOTE Oversampling** has the best geometric scores even though the Combination (Over and Under) Sampling is very close to the best.
 
+<br><br><br>
+
+
 ## Final Questions - Ensemble Learning
 
 1. Which model had the best balanced accuracy score?
